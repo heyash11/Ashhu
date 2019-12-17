@@ -4,6 +4,9 @@ pasta
 pizza
 chicken fry
 
+beans
+burger
+
 
 
 thank you;
