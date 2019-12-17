@@ -4,6 +4,9 @@ pasta
 pizza
 chicken fry
 
+bruger
+beans
+
 
 
 thank you;
